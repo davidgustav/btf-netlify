@@ -14,6 +14,7 @@ export default function Home() {
       </Head>
 
       <main>
+        <img src="/cropped-btf-site-icon-192.png" alt="Bump This Fist Logo" /> 
         <Header title="Bump This Fist" />
         <p className="description">
           Thanks for visiting. We've pivoted to a consultancy for now and will be removing the store until further notice.
